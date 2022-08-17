@@ -230,5 +230,5 @@
 
 
 
-n=(int)(input("Enter the number"))
-hourglass(n) 
+# n=(int)(input("Enter the number"))
+# hourglass(n) 
