@@ -5,9 +5,8 @@ n=(int)(input("Enter the number\n"))
 arm=0
 original_n=n
 while n!=0 :
-    digit=n%10 #get Reminder 
-    # print(reminderr)
-    arm=arm+(digit*digit*digit)
+    lastdigit=n%10 #get Reminder 
+    arm=arm+(lastdigit*lastdigit*lastdigit)
     n=n//10
 
 print(arm)
