@@ -12,4 +12,3 @@ def fibo(n):
 
 num=(int)(input(""))  
 fibo(num)
-
