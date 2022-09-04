@@ -43,7 +43,7 @@ li=[1,2,3,6,7]
 d=[li[len(li) - i] for i in range(1, len(li)+1)]
 print("\n",d)
 
-from operator import le
+# Learn Compershion
 import numpy as np
 z=np.arange(1,11)
 print("\n",z)
