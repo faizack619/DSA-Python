@@ -1,0 +1,1 @@
+lis=[[numb1 for numb1 in x]numb2 for numb2 in y]
